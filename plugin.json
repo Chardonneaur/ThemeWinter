@@ -1,0 +1,16 @@
+{
+    "name": "ThemeWinter",
+    "description": "A cool dark winter theme with ice blues, dark navy backgrounds, and silver frost accents. Evokes cold nights and frost.",
+    "version": "1.0.0",
+    "theme": true,
+    "stylesheet": "stylesheets/main.less",
+    "require": {
+        "matomo": ">=5.0.0"
+    },
+    "authors": [
+        {
+            "name": "Custom Development"
+        }
+    ],
+    "license": "GPL v3+"
+}
