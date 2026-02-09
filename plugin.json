@@ -1,16 +1,26 @@
 {
     "name": "ThemeWinter",
-    "description": "A cool dark winter theme with ice blues, dark navy backgrounds, and silver frost accents. Evokes cold nights and frost.",
+    "description": "A cool winter theme with ice blues, steel navy backgrounds, and silver frost accents.",
     "version": "1.0.0",
     "theme": true,
     "stylesheet": "stylesheets/main.less",
     "require": {
-        "matomo": ">=5.0.0"
+        "matomo": ">=5.0.0-b1,<6.0.0-b1"
     },
     "authors": [
         {
-            "name": "Custom Development"
+            "name": "Chardonneaur",
+            "homepage": "https://github.com/Chardonneaur"
         }
     ],
-    "license": "GPL v3+"
+    "license": "GPL-3.0+",
+    "homepage": "https://github.com/Chardonneaur/ThemeWinter",
+    "keywords": [
+        "theme",
+        "winter",
+        "blue",
+        "dark",
+        "cool"
+    ],
+    "category": "theme"
 }
